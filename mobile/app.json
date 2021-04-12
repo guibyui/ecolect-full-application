@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "Ecolect",
+    "slug": "ecolect",
     "platforms": [
       "ios",
       "android",

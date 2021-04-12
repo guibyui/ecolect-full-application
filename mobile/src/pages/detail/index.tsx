@@ -71,6 +71,9 @@ const Detail = () => {
       [data.point.phoneNumber],
       "Hi, I'm interested in collecting waste."
     );
+
+    console.log(status);
+    
   }
 
   function handleComposeMail() {
